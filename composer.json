@@ -1,0 +1,9 @@
+{
+    "name": "Embanet-Compass/moodle-block_dedication",
+    "type": "moodle-block",
+    "description": "Dedication Block",
+    "extra": {
+        "installer-name": "dedication",
+        "moodle": { "package_folder_name" : "dedication" }
+    }
+}
