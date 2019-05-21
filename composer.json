@@ -1,5 +1,5 @@
 {
-    "name": "Embanet-Compass/moodle-block_dedication",
+    "name": "embanet-compass/moodle-block_dedication",
     "type": "moodle-block",
     "description": "Dedication Block",
     "extra": {
